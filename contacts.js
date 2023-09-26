@@ -1,4 +1,4 @@
-// contacts data is hardwired into memory
+// contacts data is hardwired into memory.
 var express = require("express");
 var app = express();
 const fetch = require("node-fetch");
